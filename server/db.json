@@ -1,0 +1,89 @@
+{
+  "contacts": [
+    {
+      "name": "giày thể thao",
+      "photo": "https://salt.tikicdn.com/cache/w1200/ts/product/cd/0c/1f/23a251b92f1c6452acc87639512f796c.jpg",
+      "cost": "300.000",
+      "discount": "400.000",
+      "warehouse": "store",
+      "datecheckin": "12/12/2022",
+      "groupId": "4",
+      "id": "EFwqVpg"
+    },
+    {
+      "name": "Kính thời trang",
+      "photo": "https://cf.shopee.vn/file/1edbe86eb2ff823fa83ab3e75248c448",
+      "cost": "599.000",
+      "discount": "699.000",
+      "warehouse": "store",
+      "datecheckin": "12/12/2022",
+      "groupId": "4",
+      "id": "Wfp51fo"
+    },
+    {
+      "name": "áo phông",
+      "photo": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/18TS22S137.jpg",
+      "cost": "100.000",
+      "discount": "150.000",
+      "warehouse": "1111",
+      "datecheckin": "1111",
+      "groupId": "1",
+      "id": "DyDxbJa"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Đồ dành cho Nam"
+    },
+    {
+      "id": "2",
+      "name": "Đồ dành cho Nữ"
+    },
+    {
+      "id": "3",
+      "name": "Giày"
+    },
+    {
+      "id": "4",
+      "name": "Phụ kiện "
+    }
+  ],
+  "account": [
+    {
+      "name": "admin@admin.com",
+      "pass": "admin",
+      "id": "1"
+    },
+    {
+      "name": "user@user.com",
+      "pass": "user",
+      "id": "2"
+    },
+    {
+      "name": "An@gmail.com",
+      "pass": "123",
+      "id": "yu5cuuz"
+    },
+    {
+      "name": "ducan287@gmail.com",
+      "pass": "123456789",
+      "id": "q3tzYBH"
+    },
+    {
+      "name": "ducan@gmail.com",
+      "pass": "123456",
+      "id": "w8QasfE"
+    },
+    {
+      "name": "nguyenducan@gmail.com",
+      "pass": "123",
+      "id": "HbX7g-F"
+    },
+    {
+      "name": "Hung@gmail.com",
+      "pass": "123",
+      "id": "tkPohXw"
+    }
+  ]
+}
